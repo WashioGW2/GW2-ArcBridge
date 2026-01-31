@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20260128-210136-w46r",
+    "title": "V A X O U H H H",
+    "commanders": [
+      "V A X O U H H H"
+    ],
+    "dateStart": "2026-01-28T20:01:36.000Z",
+    "dateEnd": "2026-01-28T21:00:39.000Z",
+    "dateLabel": "28/01/2026 21:01:36 - 28/01/2026 22:00:39",
+    "url": "https://WashioGW2.github.io/GW2-ArcBridge/?report=20260128-210136-w46r",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 26,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 25
+    }
+  }
+]

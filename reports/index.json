@@ -21,8 +21,9 @@
       "avgSquadSize": 32,
       "avgEnemySize": 37
     }
-  },
-  {
+  }
+  //,
+  { _"commment":{
     "id": "20260128-210136-w46r",
     "title": "V A X O U H H H",
     "commanders": [
@@ -43,6 +44,6 @@
       ],
       "avgSquadSize": 23,
       "avgEnemySize": 25
-    }
+    }}
   }
 ]

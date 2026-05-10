@@ -1,25 +1,53 @@
-[
-  {
-    "id": "20260203-210616-kav9",
-    "title": "Discoo Diva",
-    "commanders": [
-      "Discoo Diva"
-    ],
-    "dateStart": "2026-02-03T20:06:16.000Z",
-    "dateEnd": "2026-02-03T20:57:16.000Z",
-    "dateLabel": "03/02/2026 21:06:16 - 03/02/2026 21:57:16",
-    "url": "https://WashioGW2.github.io/GW2-ArcBridge/?report=20260203-210616-kav9",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Alpine Borderlands",
-          "value": 17,
-          "color": "#22c55e"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260509-115149-ww3x",
+      "title": "Devisri Chowdary",
+      "commanders": [
+        "Devisri Chowdary"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 37
+      "dateStart": "2026-05-09T09:51:49.000Z",
+      "dateEnd": "2026-05-09T09:58:12.000Z",
+      "dateLabel": "09/05/2026 11:51:49 - 09/05/2026 11:58:12",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge/?report=20260509-115149-ww3x",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 41
+      }
+    },
+    {
+      "id": "20260203-210616-kav9",
+      "title": "Discoo Diva",
+      "commanders": [
+        "Discoo Diva"
+      ],
+      "dateStart": "2026-02-03T20:06:16.000Z",
+      "dateEnd": "2026-02-03T20:57:16.000Z",
+      "dateLabel": "03/02/2026 21:06:16 - 03/02/2026 21:57:16",
+      "url": "https://WashioGW2.github.io/GW2-ArcBridge/?report=20260203-210616-kav9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Alpine Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 37
+      }
     }
-  }
-]
+  ]
+}
